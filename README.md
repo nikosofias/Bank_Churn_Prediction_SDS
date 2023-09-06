@@ -1,4 +1,4 @@
 # Bank_Churn_Prediction_SDS
 
--- RUN EDA.ipynb
--- RUN Modeling.ipynb
+1) RUN EDA.ipynb
+2) RUN Modeling.ipynb
